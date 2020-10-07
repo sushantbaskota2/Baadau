@@ -37,7 +37,7 @@ class BottomNavBar extends StatelessWidget {
                   text: 'Profile',
                 ),
               ],
-              selectedIndex: 2,
+              selectedIndex: 0,
               onTabChange: (index) {
                 // setState(() {
                 //   _selectedIndex = index;
